@@ -1,0 +1,2 @@
+# HEALIX
+Self Healing RAG
